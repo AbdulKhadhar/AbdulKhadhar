@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![*](2020blue_half.png)
-<!--![*](2020red_full.png)
+<!--![*](2020blue_half.png)
+![*](2020red_full.png)
 ![*](2020green_full.png)
 ![*](2020red_half.png)
 ![*](2020blue_full.png)
